@@ -28,7 +28,7 @@ import {
 } from '@elastic/eui';
 import { CoreStart } from '../../../../../src/core/public';
 import { ClientConfigType } from '../../types';
-import defaultBrandImage from '../../assets/ui/openarmor_logo.svg';
+import defaultBrandImage from '../../assets/ui/openarmor_logo.gif';
 import { validateCurrentPassword } from '../../utils/login-utils';
 import {
   ANONYMOUS_AUTH_LOGIN,
